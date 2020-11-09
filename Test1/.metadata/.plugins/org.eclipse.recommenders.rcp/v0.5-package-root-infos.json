@@ -1,0 +1,249 @@
+[
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "d2d8a0d94bb83327a030579e05d280236f1e9a89",
+    "jarFileModificationDate": "2020-07-28T03:41:42+07:00",
+    "location": "D:\\Program Files\\Zulu\\zulu-8\\jre\\lib\\ext\\jaccess.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fcdcc7a580d8181accd843f664bdb676c996e325",
+    "jarFileModificationDate": "2020-07-28T03:41:42+07:00",
+    "location": "D:\\Program Files\\Zulu\\zulu-8\\jre\\lib\\ext\\dnsns.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "8260159b55800872d507959649b1a51a74a6d04d",
+    "jarFileModificationDate": "2020-07-28T03:41:42+07:00",
+    "location": "D:\\Program Files\\Zulu\\zulu-8\\jre\\lib\\ext\\sunjce_provider.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "690fca6608879a988af328d17f104bdde4cc6f36",
+    "jarFileModificationDate": "2020-07-28T03:41:42+07:00",
+    "location": "D:\\Program Files\\Zulu\\zulu-8\\jre\\lib\\ext\\cldrdata.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "7d16d2db03ea4db9de40de4e9c9a76f2b2a9f5ac",
+    "jarFileModificationDate": "2020-07-28T03:41:42+07:00",
+    "location": "D:\\Program Files\\Zulu\\zulu-8\\jre\\lib\\resources.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "1eab6374dfe17934ad0166f3828ef1979e379389",
+    "jarFileModificationDate": "2020-07-28T03:41:42+07:00",
+    "location": "D:\\Program Files\\Zulu\\zulu-8\\jre\\lib\\charsets.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "dcc5aa34892d9ea51aa1c514c8538cb982ff2654",
+    "jarFileModificationDate": "2020-07-28T03:41:42+07:00",
+    "location": "D:\\Program Files\\Zulu\\zulu-8\\jre\\lib\\ext\\access-bridge-64.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "cdba53d3a3a5932b55043fcb4c0a4ffb62e87524",
+    "jarFileModificationDate": "2020-07-28T03:41:42+07:00",
+    "location": "D:\\Program Files\\Zulu\\zulu-8\\jre\\lib\\jsse.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "cdb5c509594206d7d4788842768e0e35a4dad7d9",
+    "jarFileModificationDate": "2020-07-28T03:41:42+07:00",
+    "location": "D:\\Program Files\\Zulu\\zulu-8\\jre\\lib\\jce.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "b4d7981e5b1bed8001c7815d862fe0b7f1c2afd2",
+    "jarFileModificationDate": "2020-07-28T03:43:40+07:00",
+    "location": "D:\\Program Files\\Zulu\\zulu-8\\jre\\lib\\ext\\openjsse.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "5f2144446c02a462d71674a257d2be490d8b5336",
+    "jarFileModificationDate": "2020-07-28T03:41:42+07:00",
+    "location": "D:\\Program Files\\Zulu\\zulu-8\\jre\\lib\\rt.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "802ac1c0325711357e6b981099fbbd2dd330a80e",
+    "jarFileModificationDate": "2020-07-28T03:43:44+07:00",
+    "location": "D:\\Program Files\\Zulu\\zulu-8\\jre\\lib\\ext\\legacy8ujsse.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "a5942a48340764e6b9a03d64c9dafc324400c278",
+    "jarFileModificationDate": "2020-07-28T03:41:42+07:00",
+    "location": "D:\\Program Files\\Zulu\\zulu-8\\jre\\lib\\ext\\localedata.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "4796381b37aeaa7cb5227c7a4aa033dea70035ee",
+    "jarFileModificationDate": "2020-07-28T03:41:42+07:00",
+    "location": "D:\\Program Files\\Zulu\\zulu-8\\jre\\lib\\ext\\nashorn.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "3a6bdef76feeb052546174b878a5e41c952f23ce",
+    "jarFileModificationDate": "2020-07-28T03:41:42+07:00",
+    "location": "D:\\Program Files\\Zulu\\zulu-8\\jre\\lib\\ext\\sunmscapi.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "508fd5cf8dc34ec7b36ddbad79538b94a6ed6d1b",
+    "jarFileModificationDate": "2020-07-28T03:41:42+07:00",
+    "location": "D:\\Program Files\\Zulu\\zulu-8\\jre\\lib\\ext\\sunec.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "ae3a39b89d0b6357d21bb679bf02d9f343f0eee7",
+    "jarFileModificationDate": "2020-07-28T03:41:42+07:00",
+    "location": "D:\\Program Files\\Zulu\\zulu-8\\jre\\lib\\jfr.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "e550b548ae5e0ec5b10b32c0ad44fb4fe146b958",
+    "jarFileModificationDate": "2020-07-28T03:41:42+07:00",
+    "location": "D:\\Program Files\\Zulu\\zulu-8\\jre\\lib\\ext\\sunpkcs11.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "418143e1264bad58d5dec918c38e41527c05df56",
+    "jarFileModificationDate": "2020-07-28T03:41:42+07:00",
+    "location": "D:\\Program Files\\Zulu\\zulu-8\\jre\\lib\\ext\\zipfs.jar",
+    "javaRuntime": true
+  }
+]
